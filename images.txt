@@ -1,1 +1,6 @@
-quay.io/tigera/operator:v1.36.2
+calico/cni:v3.29.1
+calico/node:v3.29.1
+calico/kube-controllers:v3.29.1
+calico/typha:v3.29.1
+calico/csi:v3.29.1
+calico/apiserver:v3.29.1
