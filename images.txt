@@ -1,1 +1,1 @@
-coredns/coredns:1.12.0
+gitlab/gitlab-ce:18.7.1-ce.0
