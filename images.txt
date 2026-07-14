@@ -1,1 +1,2 @@
-debian:13
+docker pull debian:13.6
+docker pull debian:latest
