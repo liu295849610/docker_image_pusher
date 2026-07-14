@@ -1,1 +1,1 @@
-docker.io/kong:3.9
+debian:13
